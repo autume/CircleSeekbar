@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="circleseekbar_gray">#FFD8D8D8</color>
+    <color name="circleseekbar_gray_dark">#FF383838</color>
+    <color name="circleseekbar_blue_light">#ff33b5e5</color>
+    <color name="circleseekbar_text_color">#FF383838</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
